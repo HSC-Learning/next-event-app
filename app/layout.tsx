@@ -11,8 +11,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Evently",
-  description: "Evently is a platform for event management.",
+  title: "Board Game Circle",
+  description: "Board Game Circle is a platform for board gamers.",
   icons: {
     icon: "/assets/images/logo.svg",
   },

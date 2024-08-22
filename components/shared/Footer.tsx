@@ -14,7 +14,7 @@ const Footer = () => {
             height={38}
           />
         </Link>
-        <p>2024 Event. All Rights reserved.</p>
+        <p>2024 Board Game Circle. All Rights reserved.</p>
       </div>
     </footer>
   );

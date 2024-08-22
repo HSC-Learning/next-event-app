@@ -25,13 +25,11 @@ export default async function Home({ searchParams }: SearchParamProps) {
         <div className="wrapper grid grid-cols-1 gap-5 md:grid-cols-2 2xl:gap-0">
           <div className="flex flex-col justify-center gap-8">
             <h1 className="h1-bold">
-              Host or Play and Connect: Create a fun, exciting, and memorable
-              time!
+              Welcoming space where everyone is part of a group.
             </h1>
             <p className="p-regular-20 md:p-regular-24">
-              Whether you are looking to host a game or find a game you'd like
-              to play, learn, or test before you buy it, this is the place for
-              you!
+              BoardGameCircle emphasizes community, connection, inclusivity,
+              creating a fun and interactive space.
             </p>
             <Button size="lg" asChild className="button w-full sm:w-fit">
               <Link href="#events">Explore Now</Link>
